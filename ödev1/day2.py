@@ -1,3 +1,6 @@
+from human import Human
+
+
 faiz = 1.59
 vade = "36"
 krediAdi = "ihtiyac kredisi"
@@ -147,8 +150,28 @@ def calculatePrice(price, discount):
 def calculatePriceAndReturn(price, discount):
     return price - discount
 print("********")
-fonk1 = calculatePrice(100, 20)
+#fonk1 = calculatePrice(100, 20)
 fonk2 = calculatePriceAndReturn(300, 100)
-print(f"fonk1: {fonk1+100}")
+#print(f"fonk1: {fonk1+100}")
 print(f"fonk2: {fonk2+100}")
 print("**************")
+
+
+#siniflar => classlar
+#modules
+#paket yonetimi
+#self => this
+
+
+#instance => ornek
+human1 = Human("Enes")
+human1.talk("merhaba")
+human1.walk()
+print(human1)
+
+human2 = Human("Cem")
+human2.talk("Selam")
+human2.walk()
+print(human2)
+
+Human("Melike").talk("Merhaba")
