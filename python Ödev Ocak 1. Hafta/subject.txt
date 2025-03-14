@@ -1,0 +1,7 @@
+Ödev: Değişkenler ve Veri Tipleri
+Konu: Değişkenler, veri tipleri (int, float, string, boolean), kullanıcıdan veri alma.
+Görev:
+•	Kullanıcıdan adını, yaşını ve doğum yılını alarak ekrana aşağıdaki gibi yazdıran bir Python programı yazın:
+Merhaba Ali! 25 yaşındasın ve 1998 yılında doğmuşsun.
+•	Kullanıcıdan iki sayı alarak bu sayıların toplamını, farkını, çarpımını ve bölümünü ekrana yazdırın.
+.0
