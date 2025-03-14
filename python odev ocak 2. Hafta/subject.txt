@@ -1,0 +1,15 @@
+Ödev: Koşullu İfadeler (if-else)
+Konu: Karar yapıları (if-elif-else).
+Görev:
+•	Kullanıcının girdiği bir sayının tek mi çift mi olduğunu bulan bir Python programı yazın.
+•	Kullanıcının notunu alarak aşağıdaki not sistemine göre harf notunu hesaplayın:
+90-100 -> A
+80-89  -> B
+70-79  -> C
+60-69  -> D
+0-59   -> F
+•	Kullanıcının yaşına göre hangi yaş grubunda olduğunu bulan bir program yazın:
+0-12 yaş: Çocuk
+13-19 yaş: Genç
+20-59 yaş: Yetişkin
+60 ve üzeri: Yaşlı
