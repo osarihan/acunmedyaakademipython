@@ -1,0 +1,8 @@
+Ödev: Döngüler (for & while)
+Konu: For ve while döngüleri.
+Görev:
+•	1’den 100’e kadar olan sayıları ekrana yazdırın.
+•	1’den 100’e kadar sadece çift sayıları ekrana yazdıran bir program yazın.
+•	Kullanıcıdan bir sayı alıp, bu sayının faktöriyelini hesaplayan bir program yazın.
+Örnek: 5! = 5 * 4 * 3 * 2 * 1 = 120
+•	1’den 100’e kadar olan tüm asal sayıları bulan bir program yazın.
