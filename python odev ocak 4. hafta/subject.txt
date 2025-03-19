@@ -1,0 +1,6 @@
+Ödev: Listeler ve Tuple'lar
+Konu: Listeler, Tuple'lar, listelerde döngü.
+Görev:
+•	Kullanıcıdan 5 adet sayı alarak bir listeye ekleyin ve bu listenin toplamını, ortalamasını, en büyük ve en küçük elemanını bulun.
+•	Kullanıcıdan aldığı kelimeleri bir listeye ekleyerek ters sıralayan bir program yazın.
+•	Bir liste içindeki tekrar eden elemanları kaldıran bir program yazın.
