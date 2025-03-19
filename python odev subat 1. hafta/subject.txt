@@ -1,0 +1,7 @@
+Ödev: Fonksiyonlar
+Konu: Fonksiyonlar, parametreler, return.
+Görev:
+•	Girilen iki sayının toplamını, farkını, çarpımını ve bölümünü bulan bir hesap makinesi fonksiyonu yazın.
+•	Kullanıcının girdiği bir kelimenin palindrom olup olmadığını kontrol eden bir fonksiyon yazın.
+Örnek: "kek" -> palindrom, "masa" -> değil
+•	Kullanıcının yaşını girerek kaç yıl sonra 100 yaşına ulaşacağını hesaplayan bir fonksiyon yazın.
