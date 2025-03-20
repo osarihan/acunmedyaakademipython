@@ -1,0 +1,1 @@
+Numpy kütüphanesinde 10 adet seçtikleri fonksiyonu açıklayarak kullanım örneği olan jupyter notebook ile paylaşılacak.
