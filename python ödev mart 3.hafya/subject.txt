@@ -1,0 +1,10 @@
+Ödev
+https://www.kaggle.com/datasets/altavish/boston-housing-dataset
+
+Boston housing dataseti ML'e hazır hale getirelim.
+
+Pandas ile görüntüleyelim,analiz edelim. Eksik verileri dolduralım.
+
+Analiz ve veri ön işleme sonrası veri son halini .csv olarak kaydedelim.
+
+Verilerde görüntülemek istediğiniz 2 senaryo seçip 2 adet grafik oluşturunuz. (Örn: age ile fiyat eğrisi)
