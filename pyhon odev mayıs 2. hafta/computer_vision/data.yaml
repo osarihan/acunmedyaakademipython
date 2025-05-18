@@ -1,0 +1,7 @@
+path: C:\Users\ouz\Desktop\acunmedyaakademipython\pyhon odev mayıs 2. hafta\computer_vision\archive
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
